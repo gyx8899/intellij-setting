@@ -1,0 +1,20 @@
+{
+  "name": "intellij-setting",
+  "version": "1.0.0",
+  "description": "个人 IntelliJ IDEA 配置",
+  "main": "index.js",
+  "scripts": {
+    "git-push": "cd ../yx-env && git-push.sh intellij-setting"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gyx8899/intellij-setting.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gyx8899/intellij-setting/issues"
+  },
+  "homepage": "https://github.com/gyx8899/intellij-setting#readme"
+}
